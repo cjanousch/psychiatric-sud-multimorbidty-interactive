@@ -4,7 +4,7 @@ This repository contains interactive visualizations accompanying the manuscript:
 
 **Pathways of Psychiatric Multimorbidity Surrounding First Substance Use Disorder Diagnosis in Youth**
 
-*Clarissa Janousch, Andreas Lundin, Mathias Mattsson, Peter Wennberg, Sara Wallhed Finn, Anna-Karin Danielsson*
+Clarissa Janousch, Andreas Lundin, Mathias Mattsson, Peter Wennberg, Sara Wallhed Finn, Anna-Karin Danielsson
 
 *Submitted to JAMA Psychiatry*
 
