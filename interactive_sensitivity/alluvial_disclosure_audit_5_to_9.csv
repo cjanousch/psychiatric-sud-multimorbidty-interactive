@@ -1,0 +1,1596 @@
+dataset,dataset_label,sex,sub_key,sub_label,age_key,age_label,disclosure_min_n,n_initial,n_final,n_removed,issue_type,from_axis,to_axis,from_state,to_state,cell_n,n_minors,n_adults,pct_minors,contains_minors
+all,All,All,all,All SUD,all,All ages,5,89044,89044,0,flow,index,post1,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,all,All SUD,18-25,18-25,5,65952,65952,0,flow,index,post1,SUD2+_F2+,SUD1_F0,8,0,8,0,FALSE
+all,All,All,all,All SUD,18-25,18-25,5,65952,65952,0,flow,index,post1,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,all,All SUD,18-25,18-25,5,65952,65952,0,flow,post1,post2,SUD0_F2+,SUD2+_F0,9,0,9,0,FALSE
+all,All,All,F10,F10 (Alcohol),all,All ages,5,37220,37212,8,flow,index,post1,SUD2+_F2+,SUD1_F1,7,2,5,28.6,TRUE
+all,All,All,F10,F10 (Alcohol),all,All ages,5,37220,37212,8,flow,index,post1,SUD2+_F2+,SUD2+_F1,5,1,4,20,TRUE
+all,All,All,F10,F10 (Alcohol),all,All ages,5,37220,37212,8,flow,post1,post2,SUD0_F2+,SUD2+_F0,5,2,3,40,TRUE
+all,All,All,F10,F10 (Alcohol),all,All ages,5,37220,37212,8,flow,post1,post2,SUD0_F2+,SUD2+_F1,8,1,7,12.5,TRUE
+all,All,All,F10,F10 (Alcohol),all,All ages,5,37220,37212,8,flow,post1,post2,SUD1_F2+,SUD2+_F0,7,2,5,28.6,TRUE
+all,All,All,F10,F10 (Alcohol),all,All ages,5,37220,37212,8,flow,post1,post2,SUD2+_F0,SUD1_F2+,7,3,4,42.9,TRUE
+all,All,All,F10,F10 (Alcohol),18-25,18-25,5,25169,25151,18,flow,index,post1,SUD2+_F2+,SUD0_F1,8,0,8,0,FALSE
+all,All,All,F10,F10 (Alcohol),18-25,18-25,5,25169,25151,18,flow,index,post1,SUD2+_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,All,F10,F10 (Alcohol),18-25,18-25,5,25169,25151,18,flow,post1,post2,SUD0_F2+,SUD2+_F1,7,0,7,0,FALSE
+all,All,All,F10,F10 (Alcohol),18-25,18-25,5,25169,25151,18,flow,post1,post2,SUD1_F2+,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,F10,F10 (Alcohol),18-25,18-25,5,25169,25151,18,flow,post1,post2,SUD2+_F0,SUD0_F2+,9,0,9,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,pre,index,SUD0_F2+,SUD2+_F1,8,1,7,12.5,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD2+_F0,SUD0_F2+,5,1,4,20,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD2+_F1,SUD0_F1,8,1,7,12.5,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD2+_F1,SUD0_F2+,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD2+_F1,SUD1_F0,8,1,7,12.5,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD2+_F1,SUD1_F1,7,1,6,14.3,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD2+_F1,SUD1_F2+,7,1,6,14.3,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,index,post1,SUD2+_F1,SUD2+_F2+,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,No visit,SUD2+_F1,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,No visit,SUD2+_F2+,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD0_F1,SUD1_F0,8,1,7,12.5,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD0_F1,SUD1_F2+,5,3,2,60,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD1_F0,SUD0_F2+,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD1_F0,SUD1_F2+,9,0,9,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD1_F0,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD1_F2+,SUD1_F0,8,1,7,12.5,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD2+_F1,SUD2+_F2+,9,0,9,0,FALSE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD2+_F2+,SUD0_F1,8,1,7,12.5,TRUE
+all,All,All,F11,F11 (Opioids),all,All ages,5,3632,3567,65,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,pre,index,SUD0_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,pre,index,SUD0_F2+,SUD2+_F1,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,index,post1,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,index,post1,SUD2+_F1,SUD0_F1,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,index,post1,SUD2+_F1,SUD0_F2+,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,index,post1,SUD2+_F1,SUD1_F0,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,index,post1,SUD2+_F1,SUD1_F1,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,index,post1,SUD2+_F1,SUD1_F2+,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,index,post1,SUD2+_F1,SUD2+_F2+,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,No visit,SUD2+_F1,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,No visit,SUD2+_F2+,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD0_F1,SUD1_F0,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD0_F1,SUD1_F1,9,0,9,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD1_F0,SUD0_F2+,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD1_F0,SUD1_F2+,9,0,9,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD1_F0,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD1_F1,SUD2+_F2+,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD1_F2+,SUD1_F0,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD2+_F1,SUD2+_F2+,9,0,9,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD2+_F2+,SUD0_F1,7,0,7,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,F11,F11 (Opioids),18-25,18-25,5,3260,3194,66,flow,post1,post2,SUD2+_F2+,SUD2+_F1,9,0,9,0,FALSE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,pre,index,SUD0_F1,SUD2+_F2+,7,2,5,28.6,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,index,post1,SUD1_F2+,SUD2+_F0,5,1,4,20,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,index,post1,SUD2+_F2+,SUD0_F2+,9,1,8,11.1,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,index,post1,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,4,5,44.4,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,post1,post2,SUD0_F2+,SUD1_F0,7,2,5,28.6,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,post1,post2,SUD0_F2+,SUD2+_F1,5,2,3,40,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,post1,post2,SUD1_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,post1,post2,SUD2+_F0,SUD0_F2+,9,1,8,11.1,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,post1,post2,SUD2+_F1,SUD0_F2+,8,1,7,12.5,TRUE
+all,All,All,F12,F12 (Cannabis),all,All ages,5,15133,15117,16,flow,post1,post2,SUD2+_F2+,SUD2+_F0,9,4,5,44.4,TRUE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,pre,index,SUD0_F1,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,index,post1,SUD2+_F2+,SUD0_F2+,8,0,8,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,index,post1,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,index,post1,SUD2+_F2+,SUD1_F2+,5,0,5,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD0_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD0_F2+,SUD1_F0,5,0,5,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD0_F2+,SUD1_F1,7,0,7,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD1_F2+,SUD2+_F0,6,0,6,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD2+_F0,SUD0_F2+,8,0,8,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD2+_F0,SUD1_F2+,8,0,8,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD2+_F1,SUD0_F2+,7,0,7,0,FALSE
+all,All,All,F12,F12 (Cannabis),18-25,18-25,5,9811,9794,17,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,index,post1,SUD1_F1,SUD2+_F0,6,1,5,16.7,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,index,post1,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,index,post1,SUD1_F2+,SUD1_F1,7,0,7,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,index,post1,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,index,post1,SUD2+_F1,SUD0_F2+,7,1,6,14.3,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,index,post1,SUD2+_F1,SUD1_F0,8,1,7,12.5,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,No visit,SUD2+_F2+,6,1,5,16.7,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD1_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD1_F0,SUD1_F2+,6,1,5,16.7,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD1_F0,SUD2+_F2+,5,1,4,20,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD1_F2+,SUD2+_F1,5,1,4,20,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD2+_F0,SUD0_F1,7,1,6,14.3,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD2+_F1,SUD0_F2+,7,1,6,14.3,TRUE
+all,All,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5669,5606,63,flow,post1,post2,SUD2+_F2+,SUD1_F0,9,0,9,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD1_F2+,SUD1_F1,7,0,7,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD2+_F1,SUD0_F2+,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD2+_F1,SUD1_F0,7,0,7,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD2+_F1,SUD1_F1,9,0,9,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD2+_F1,SUD2+_F2+,8,0,8,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,0,9,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD1_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD2+_F0,SUD0_F1,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD2+_F1,SUD0_F2+,6,0,6,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD2+_F1,SUD1_F2+,9,0,9,0,FALSE
+all,All,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4357,64,flow,post1,post2,SUD2+_F2+,SUD1_F0,9,0,9,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,pre,index,No visit,SUD2+_F2+,6,1,5,16.7,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,pre,index,SUD0_F2+,SUD2+_F2+,9,0,9,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD1_F2+,SUD2+_F2+,9,1,8,11.1,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F0,SUD0_F2+,9,2,7,22.2,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F0,SUD1_F2+,7,1,6,14.3,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F1,SUD0_F1,8,2,6,25,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F1,SUD1_F0,6,3,3,50,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F1,SUD1_F1,7,2,5,28.6,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F1,SUD2+_F2+,9,1,8,11.1,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD0_F2+,SUD2+_F2+,9,2,7,22.2,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F1,SUD1_F0,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F1,SUD2+_F2+,6,1,5,16.7,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F2+,SUD1_F0,7,1,6,14.3,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F2+,SUD2+_F0,5,1,4,20,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD2+_F0,SUD0_F1,7,1,6,14.3,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD2+_F0,SUD1_F1,8,1,7,12.5,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD2+_F1,SUD1_F2+,6,1,5,16.7,TRUE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD2+_F2+,SUD1_F0,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+all,All,All,F15,F15 (Other stimulants),all,All ages,5,2927,2868,59,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,pre,index,No visit,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,pre,index,SUD0_F2+,SUD2+_F2+,9,0,9,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F0,SUD1_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F1,SUD0_F1,6,0,6,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F1,SUD2+_F2+,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,index,post1,SUD2+_F2+,SUD2+_F2+,9,0,9,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,No visit,SUD1_F2+,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD0_F1,SUD1_F1,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD0_F1,SUD1_F2+,9,0,9,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD0_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD1_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD1_F1,SUD1_F0,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD1_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD1_F1,SUD2+_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F0,SUD0_F1,6,0,6,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F0,SUD1_F1,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F1,SUD0_F1,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F1,SUD2+_F1,7,0,7,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F2+,SUD1_F0,8,0,8,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+all,All,All,F15,F15 (Other stimulants),18-25,18-25,5,2411,2346,65,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,stratum,NA,post1,NA,SUD2+_F0,7,1,6,14.3,TRUE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,index,post1,SUD1_F0,SUD2+_F0,7,1,6,14.3,TRUE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,post1,post2,No visit,SUD1_F1,5,1,4,20,TRUE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,post1,post2,SUD0_F1,SUD1_F2+,7,1,6,14.3,TRUE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,post1,post2,SUD1_F0,SUD0_F2+,9,1,8,11.1,TRUE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,post1,post2,SUD1_F0,SUD1_F2+,5,1,4,20,TRUE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,post1,post2,SUD1_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,post1,post2,SUD1_F2+,SUD1_F2+,7,1,6,14.3,TRUE
+all,All,All,F17,F17 (Tobacco),all,All ages,5,3492,3400,92,flow,post1,post2,SUD2+_F0,No visit,7,1,6,14.3,TRUE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,stratum,NA,index,NA,SUD2+_F0,8,0,8,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,stratum,NA,post1,NA,SUD2+_F0,6,0,6,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,pre,index,No visit,SUD2+_F0,8,0,8,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,index,post1,SUD1_F0,SUD2+_F0,6,0,6,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,index,post1,SUD1_F1,SUD1_F0,9,0,9,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,index,post1,SUD2+_F0,No visit,8,0,8,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,post1,post2,SUD0_F1,SUD1_F2+,6,0,6,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,post1,post2,SUD0_F2+,SUD1_F2+,8,0,8,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,post1,post2,SUD1_F0,SUD0_F2+,8,0,8,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,post1,post2,SUD1_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,post1,post2,SUD1_F2+,SUD1_F2+,6,0,6,0,FALSE
+all,All,All,F17,F17 (Tobacco),18-25,18-25,5,3110,3022,88,flow,post1,post2,SUD2+_F0,No visit,6,0,6,0,FALSE
+all,All,All,F19,F19 (Multiple drugs),all,All ages,5,18773,18764,9,flow,index,post1,SUD2+_F1,SUD2+_F0,6,1,5,16.7,TRUE
+all,All,All,F19,F19 (Multiple drugs),all,All ages,5,18773,18764,9,flow,index,post1,SUD2+_F2+,SUD0_F1,8,2,6,25,TRUE
+all,All,All,F19,F19 (Multiple drugs),all,All ages,5,18773,18764,9,flow,post1,post2,SUD2+_F0,SUD0_F2+,9,1,8,11.1,TRUE
+all,All,All,F19,F19 (Multiple drugs),18-25,18-25,5,16152,16144,8,flow,index,post1,SUD2+_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,All,F19,F19 (Multiple drugs),18-25,18-25,5,16152,16144,8,flow,index,post1,SUD2+_F2+,SUD0_F1,6,0,6,0,FALSE
+all,All,All,F19,F19 (Multiple drugs),18-25,18-25,5,16152,16144,8,flow,index,post1,SUD2+_F2+,SUD1_F1,9,0,9,0,FALSE
+all,All,All,F19,F19 (Multiple drugs),18-25,18-25,5,16152,16144,8,flow,post1,post2,SUD0_F2+,SUD1_F0,7,0,7,0,FALSE
+all,All,All,F19,F19 (Multiple drugs),18-25,18-25,5,16152,16144,8,flow,post1,post2,SUD2+_F0,SUD0_F2+,8,0,8,0,FALSE
+all,All,Female,all,All SUD,all,All ages,5,39034,39027,7,flow,index,post1,SUD1_F2+,SUD2+_F0,8,1,7,12.5,TRUE
+all,All,Female,all,All SUD,all,All ages,5,39034,39027,7,flow,index,post1,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,all,All SUD,all,All ages,5,39034,39027,7,flow,post1,post2,SUD0_F2+,SUD2+_F0,7,4,3,57.1,TRUE
+all,All,Female,all,All SUD,18-25,18-25,5,27533,27524,9,flow,index,post1,SUD1_F2+,SUD2+_F0,7,0,7,0,FALSE
+all,All,Female,all,All SUD,18-25,18-25,5,27533,27524,9,flow,index,post1,SUD2+_F2+,SUD0_F1,8,0,8,0,FALSE
+all,All,Female,all,All SUD,18-25,18-25,5,27533,27524,9,flow,index,post1,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,index,post1,SUD1_F2+,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,index,post1,SUD2+_F1,SUD1_F0,9,1,8,11.1,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,index,post1,SUD2+_F2+,SUD0_F1,6,3,3,50,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,index,post1,SUD2+_F2+,SUD1_F1,5,2,3,40,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,3,6,33.3,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,post1,post2,SUD0_F2+,SUD2+_F1,6,1,5,16.7,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,post1,post2,SUD1_F1,SUD2+_F0,7,4,3,57.1,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,post1,post2,SUD2+_F0,SUD0_F2+,8,2,6,25,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,post1,post2,SUD2+_F0,SUD1_F2+,6,3,3,50,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,3,4,42.9,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,post1,post2,SUD2+_F0,SUD2+_F2+,7,1,6,14.3,TRUE
+all,All,Female,F10,F10 (Alcohol),all,All ages,5,19517,19500,17,flow,post1,post2,SUD2+_F1,SUD2+_F0,7,2,5,28.6,TRUE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,pre,index,No visit,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,index,post1,SUD1_F2+,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,index,post1,SUD2+_F1,SUD1_F0,8,0,8,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,index,post1,SUD2+_F2+,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD0_F1,SUD2+_F0,6,0,6,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD0_F1,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD0_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD1_F0,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD1_F1,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD2+_F0,SUD0_F1,8,0,8,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD2+_F0,SUD0_F2+,6,0,6,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD2+_F0,SUD1_F1,8,0,8,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD2+_F0,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Female,F10,F10 (Alcohol),18-25,18-25,5,12704,12673,31,flow,post1,post2,SUD2+_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,pre,index,No visit,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,pre,index,SUD0_F1,SUD2+_F0,9,2,7,22.2,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,index,post1,SUD1_F1,SUD2+_F1,8,2,6,25,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,index,post1,SUD1_F2+,No visit,7,0,7,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,index,post1,SUD2+_F0,SUD0_F1,5,2,3,40,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,No visit,SUD0_F2+,5,2,3,40,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,No visit,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,No visit,SUD2+_F0,8,0,8,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD0_F1,SUD1_F0,5,1,4,20,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD0_F1,SUD1_F1,6,3,3,50,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD0_F2+,SUD1_F2+,8,2,6,25,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD1_F0,SUD2+_F1,6,2,4,33.3,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD1_F1,SUD0_F1,5,2,3,40,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD1_F1,SUD0_F2+,7,2,5,28.6,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD1_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD1_F1,SUD2+_F2+,5,1,4,20,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F0,SUD2+_F1,9,2,7,22.2,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F1,SUD0_F1,6,1,5,16.7,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F1,SUD1_F0,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F1,SUD1_F1,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F1,SUD2+_F1,5,2,3,40,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F1,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F2+,No visit,8,0,8,0,FALSE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F2+,SUD0_F1,5,1,4,20,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F2+,SUD1_F0,5,1,4,20,TRUE
+all,All,Female,F11,F11 (Opioids),all,All ages,5,1380,1263,117,flow,post1,post2,SUD2+_F2+,SUD1_F2+,9,1,8,11.1,TRUE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,pre,index,No visit,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,pre,index,SUD0_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,pre,index,SUD0_F2+,SUD2+_F0,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD1_F1,SUD1_F0,9,0,9,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD1_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD1_F1,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD1_F2+,No visit,7,0,7,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD2+_F0,SUD1_F1,8,0,8,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD2+_F0,SUD2+_F1,7,0,7,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,index,post1,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,No visit,SUD1_F1,8,0,8,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,No visit,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,No visit,SUD2+_F0,8,0,8,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD0_F2+,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD1_F0,SUD0_F1,9,0,9,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD1_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD1_F1,SUD1_F2+,9,0,9,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD1_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,0,7,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD2+_F1,SUD1_F0,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD2+_F1,SUD1_F1,6,0,6,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD2+_F1,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD2+_F2+,No visit,8,0,8,0,FALSE
+all,All,Female,F11,F11 (Opioids),18-25,18-25,5,1166,1028,138,flow,post1,post2,SUD2+_F2+,SUD1_F2+,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,index,post1,SUD1_F1,SUD2+_F0,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,index,post1,SUD1_F2+,SUD2+_F1,6,2,4,33.3,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,index,post1,SUD2+_F1,SUD0_F2+,7,4,3,57.1,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,index,post1,SUD2+_F1,SUD2+_F1,9,4,5,44.4,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,index,post1,SUD2+_F1,SUD2+_F2+,6,1,5,16.7,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,No visit,SUD2+_F1,6,2,4,33.3,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD0_F1,SUD1_F0,6,4,2,66.7,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD1_F2+,SUD2+_F1,9,5,4,55.6,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F0,SUD0_F2+,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F0,SUD1_F1,9,5,4,55.6,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F0,SUD1_F2+,5,3,2,60,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F0,SUD2+_F1,9,5,4,55.6,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F1,SUD1_F0,8,5,3,62.5,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F1,SUD1_F2+,8,1,7,12.5,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,6,3,66.7,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,2,4,33.3,TRUE
+all,All,Female,F12,F12 (Cannabis),all,All ages,5,3575,3511,64,flow,post1,post2,SUD2+_F2+,SUD2+_F1,8,3,5,37.5,TRUE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,index,post1,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,index,post1,SUD2+_F0,SUD1_F1,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,index,post1,SUD2+_F0,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,index,post1,SUD2+_F1,SUD0_F1,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,index,post1,SUD2+_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,index,post1,SUD2+_F1,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,No visit,SUD1_F2+,9,0,9,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,No visit,SUD2+_F0,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD1_F0,SUD0_F2+,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD1_F0,SUD2+_F0,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD1_F0,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F0,SUD0_F1,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F0,SUD0_F2+,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F0,SUD1_F0,8,0,8,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F1,SUD0_F1,9,0,9,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F1,SUD2+_F1,7,0,7,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F2+,SUD0_F1,9,0,9,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F2+,SUD1_F0,7,0,7,0,FALSE
+all,All,Female,F12,F12 (Cannabis),18-25,18-25,5,2160,2075,85,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,stratum,NA,index,NA,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,pre,index,SUD0_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,pre,index,SUD0_F2+,SUD2+_F1,9,1,8,11.1,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,pre,index,SUD0_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,index,post1,SUD1_F1,SUD2+_F1,9,2,7,22.2,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,index,post1,SUD2+_F0,SUD2+_F1,5,1,4,20,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,index,post1,SUD2+_F1,No visit,8,1,7,12.5,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,index,post1,SUD2+_F1,SUD0_F1,8,1,7,12.5,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,index,post1,SUD2+_F1,SUD0_F2+,6,1,5,16.7,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,index,post1,SUD2+_F1,SUD1_F2+,5,1,4,20,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,index,post1,SUD2+_F2+,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,No visit,SUD1_F2+,7,2,5,28.6,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,No visit,SUD2+_F1,5,2,3,40,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD0_F1,SUD1_F0,9,2,7,22.2,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD1_F0,SUD1_F1,6,2,4,33.3,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD1_F0,SUD2+_F1,5,1,4,20,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD1_F1,SUD1_F0,5,1,4,20,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD1_F1,SUD1_F1,8,1,7,12.5,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD1_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD1_F2+,SUD1_F1,6,1,5,16.7,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD2+_F0,SUD1_F0,5,1,4,20,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD2+_F1,SUD0_F1,6,2,4,33.3,TRUE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3456,3342,114,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,stratum,NA,index,NA,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,stratum,NA,post1,NA,SUD2+_F0,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,stratum,NA,post2,NA,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,pre,index,No visit,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,pre,index,SUD0_F1,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,pre,index,SUD0_F2+,SUD2+_F1,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,pre,index,SUD0_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,index,post1,SUD1_F0,SUD2+_F0,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,index,post1,SUD1_F1,SUD2+_F1,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,index,post1,SUD2+_F0,SUD1_F2+,8,0,8,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,index,post1,SUD2+_F1,No visit,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,index,post1,SUD2+_F1,SUD0_F1,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,index,post1,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,index,post1,SUD2+_F2+,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,No visit,SUD1_F1,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,No visit,SUD1_F2+,5,0,5,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD0_F1,SUD1_F0,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD0_F2+,SUD1_F1,8,0,8,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD1_F0,SUD1_F0,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD1_F1,SUD1_F1,7,0,7,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD1_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD2+_F0,No visit,6,0,6,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2603,2472,131,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,pre,index,SUD0_F1,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,pre,index,SUD0_F1,SUD2+_F1,6,1,5,16.7,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,pre,index,SUD0_F2+,SUD2+_F0,9,1,8,11.1,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD1_F1,SUD2+_F0,6,1,5,16.7,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD1_F2+,No visit,9,0,9,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD1_F2+,SUD0_F1,6,1,5,16.7,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD2+_F0,SUD0_F1,8,2,6,25,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD2+_F0,SUD1_F1,6,2,4,33.3,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD2+_F0,SUD2+_F2+,9,2,7,22.2,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD2+_F1,No visit,6,2,4,33.3,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD2+_F1,SUD1_F1,5,2,3,40,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,index,post1,SUD2+_F1,SUD2+_F1,6,1,5,16.7,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,No visit,SUD1_F2+,6,3,3,50,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD0_F1,SUD1_F1,7,2,5,28.6,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD0_F1,SUD1_F2+,8,4,4,50,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD0_F2+,SUD1_F2+,8,2,6,25,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,1,5,16.7,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD1_F1,SUD0_F2+,7,1,6,14.3,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD1_F1,SUD1_F1,8,0,8,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD1_F2+,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD1_F2+,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F0,SUD2+_F0,5,2,3,40,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F0,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F1,SUD0_F1,6,2,4,33.3,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F1,SUD1_F1,7,2,5,28.6,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F1,SUD2+_F1,7,3,4,42.9,TRUE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),all,All ages,5,1285,1163,122,flow,post1,post2,SUD2+_F2+,No visit,7,1,6,14.3,TRUE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,stratum,NA,post2,NA,SUD2+_F0,9,0,9,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,stratum,NA,post2,NA,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,pre,index,SUD0_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,pre,index,SUD0_F2+,SUD2+_F0,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,index,post1,SUD1_F1,SUD1_F0,9,0,9,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,index,post1,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,index,post1,SUD1_F1,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,index,post1,SUD1_F2+,No visit,9,0,9,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,index,post1,SUD2+_F0,SUD0_F1,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,index,post1,SUD2+_F0,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,index,post1,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,No visit,SUD0_F2+,9,0,9,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,No visit,SUD2+_F0,9,0,9,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD0_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD0_F2+,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD0_F2+,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD1_F0,SUD1_F1,9,0,9,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD1_F1,SUD0_F1,7,0,7,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD1_F1,SUD0_F2+,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD1_F1,SUD1_F1,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD1_F2+,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD1_F2+,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD2+_F0,SUD1_F0,8,0,8,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD2+_F0,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Female,F15,F15 (Other stimulants),18-25,18-25,5,993,843,150,flow,post1,post2,SUD2+_F2+,No visit,6,0,6,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,stratum,NA,post2,NA,SUD1_F2+,9,2,7,22.2,TRUE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,pre,index,No visit,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,pre,index,SUD0_F1,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,index,post1,SUD1_F1,SUD1_F0,6,1,5,16.7,TRUE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,index,post1,SUD1_F1,SUD1_F2+,7,1,6,14.3,TRUE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,index,post1,SUD1_F2+,No visit,8,0,8,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,index,post1,SUD1_F2+,SUD0_F1,6,0,6,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,post1,post2,SUD0_F2+,SUD1_F2+,9,2,7,22.2,TRUE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,post1,post2,SUD1_F0,SUD0_F1,5,0,5,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,post1,post2,SUD1_F1,SUD0_F2+,7,0,7,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,post1,post2,SUD1_F2+,No visit,7,0,7,0,FALSE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,post1,post2,SUD1_F2+,SUD0_F1,5,1,4,20,TRUE
+all,All,Female,F17,F17 (Tobacco),all,All ages,5,1904,1838,66,flow,post1,post2,SUD1_F2+,SUD0_F2+,8,0,8,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,stratum,NA,post2,NA,SUD1_F1,9,0,9,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,stratum,NA,post2,NA,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,pre,index,No visit,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,pre,index,SUD0_F1,SUD1_F2+,6,0,6,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,index,post1,SUD1_F1,SUD1_F0,5,0,5,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,index,post1,SUD1_F2+,No visit,8,0,8,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,index,post1,SUD1_F2+,SUD0_F1,6,0,6,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,post1,post2,SUD0_F1,SUD1_F1,9,0,9,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,post1,post2,SUD0_F2+,SUD1_F2+,7,0,7,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,post1,post2,SUD1_F0,SUD0_F1,5,0,5,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,post1,post2,SUD1_F0,SUD1_F0,8,0,8,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,post1,post2,SUD1_F1,SUD0_F2+,7,0,7,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,post1,post2,SUD1_F2+,No visit,6,0,6,0,FALSE
+all,All,Female,F17,F17 (Tobacco),18-25,18-25,5,1678,1610,68,flow,post1,post2,SUD1_F2+,SUD0_F2+,6,0,6,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,pre,index,SUD0_F1,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,index,post1,SUD1_F2+,SUD2+_F1,9,1,8,11.1,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,index,post1,SUD2+_F1,SUD2+_F1,5,1,4,20,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,index,post1,SUD2+_F2+,SUD0_F2+,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,index,post1,SUD2+_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD0_F1,SUD2+_F0,5,1,4,20,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD0_F1,SUD2+_F1,7,2,5,28.6,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD0_F2+,SUD1_F0,5,1,4,20,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD0_F2+,SUD2+_F1,6,2,4,33.3,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD1_F0,SUD0_F2+,8,2,6,25,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD1_F0,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD1_F2+,SUD2+_F0,7,2,5,28.6,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD2+_F0,SUD0_F1,7,1,6,14.3,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD2+_F0,SUD1_F2+,5,1,4,20,TRUE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),all,All ages,5,7250,7221,29,flow,post1,post2,SUD2+_F1,SUD0_F2+,8,1,7,12.5,TRUE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,pre,index,SUD0_F1,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD1_F2+,SUD2+_F1,8,0,8,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD2+_F0,SUD0_F2+,9,0,9,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD2+_F0,SUD1_F1,9,0,9,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD2+_F0,SUD1_F2+,9,0,9,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD2+_F0,SUD2+_F1,9,0,9,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD2+_F1,SUD1_F1,8,0,8,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD2+_F2+,SUD0_F2+,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,index,post1,SUD2+_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD0_F1,SUD2+_F1,5,0,5,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD0_F1,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD1_F0,SUD0_F2+,6,0,6,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD1_F0,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD1_F2+,SUD2+_F0,5,0,5,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD2+_F0,SUD0_F1,6,0,6,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5806,5761,45,flow,post1,post2,SUD2+_F1,SUD0_F2+,7,0,7,0,FALSE
+all,All,Male,all,All SUD,all,All ages,5,50010,50008,2,flow,index,post1,SUD2+_F2+,SUD1_F0,6,1,5,16.7,TRUE
+all,All,Male,all,All SUD,all,All ages,5,50010,50008,2,flow,post1,post2,SUD0_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+all,All,Male,all,All SUD,18-25,18-25,5,38419,38417,2,flow,index,post1,SUD2+_F2+,SUD0_F1,9,0,9,0,FALSE
+all,All,Male,all,All SUD,18-25,18-25,5,38419,38417,2,flow,index,post1,SUD2+_F2+,SUD1_F0,5,0,5,0,FALSE
+all,All,Male,all,All SUD,18-25,18-25,5,38419,38417,2,flow,post1,post2,SUD0_F2+,SUD2+_F0,6,0,6,0,FALSE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,index,post1,SUD2+_F1,SUD1_F2+,6,2,4,33.3,TRUE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,index,post1,SUD2+_F2+,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,index,post1,SUD2+_F2+,SUD0_F2+,8,2,6,25,TRUE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,1,8,11.1,TRUE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,post1,post2,SUD1_F0,SUD2+_F2+,9,2,7,22.2,TRUE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,post1,post2,SUD1_F2+,SUD2+_F0,5,2,3,40,TRUE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,post1,post2,SUD2+_F0,SUD2+_F2+,8,2,6,25,TRUE
+all,All,Male,F10,F10 (Alcohol),all,All ages,5,17703,17679,24,flow,post1,post2,SUD2+_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+all,All,Male,F10,F10 (Alcohol),18-25,18-25,5,12465,12437,28,flow,pre,index,SUD0_F1,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Male,F10,F10 (Alcohol),18-25,18-25,5,12465,12437,28,flow,index,post1,SUD2+_F2+,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F10,F10 (Alcohol),18-25,18-25,5,12465,12437,28,flow,index,post1,SUD2+_F2+,SUD0_F2+,6,0,6,0,FALSE
+all,All,Male,F10,F10 (Alcohol),18-25,18-25,5,12465,12437,28,flow,index,post1,SUD2+_F2+,SUD1_F2+,8,0,8,0,FALSE
+all,All,Male,F10,F10 (Alcohol),18-25,18-25,5,12465,12437,28,flow,post1,post2,SUD1_F0,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Male,F10,F10 (Alcohol),18-25,18-25,5,12465,12437,28,flow,post1,post2,SUD2+_F0,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Male,F10,F10 (Alcohol),18-25,18-25,5,12465,12437,28,flow,post1,post2,SUD2+_F2+,SUD2+_F0,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,pre,index,SUD0_F1,SUD2+_F1,7,0,7,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,index,post1,SUD1_F2+,No visit,9,1,8,11.1,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,index,post1,SUD2+_F0,SUD2+_F2+,8,2,6,25,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,index,post1,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,index,post1,SUD2+_F1,SUD1_F0,6,1,5,16.7,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,index,post1,SUD2+_F1,SUD1_F1,5,1,4,20,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,index,post1,SUD2+_F1,SUD2+_F1,9,1,8,11.1,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,No visit,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD0_F1,SUD1_F1,7,1,6,14.3,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F1,SUD1_F2+,7,0,7,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F1,SUD2+_F0,8,1,7,12.5,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F1,SUD2+_F1,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F1,SUD2+_F2+,5,1,4,20,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F2+,SUD0_F2+,5,1,4,20,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F2+,SUD1_F1,6,1,5,16.7,TRUE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD1_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD2+_F0,SUD1_F1,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD2+_F0,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD2+_F2+,SUD1_F0,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),all,All ages,5,2252,2163,89,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,pre,index,SUD0_F1,SUD2+_F1,7,0,7,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,index,post1,SUD1_F2+,No visit,8,0,8,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,index,post1,SUD1_F2+,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,index,post1,SUD2+_F0,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,index,post1,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,index,post1,SUD2+_F1,SUD1_F0,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,index,post1,SUD2+_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,No visit,SUD0_F2+,8,0,8,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,No visit,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,No visit,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD0_F1,SUD1_F1,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD0_F2+,SUD0_F1,7,0,7,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD1_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD1_F1,SUD1_F2+,7,0,7,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD1_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F0,SUD1_F1,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F0,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F2+,SUD0_F2+,8,0,8,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F2+,SUD1_F0,6,0,6,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F2+,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F11,F11 (Opioids),18-25,18-25,5,2094,1999,95,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,index,post1,SUD2+_F1,SUD0_F2+,9,2,7,22.2,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,index,post1,SUD2+_F1,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,index,post1,SUD2+_F1,SUD2+_F0,7,0,7,0,FALSE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,1,4,20,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,index,post1,SUD2+_F2+,SUD1_F2+,5,2,3,40,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,post1,post2,SUD0_F2+,SUD1_F0,5,2,3,40,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,2,4,33.3,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,post1,post2,SUD1_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,post1,post2,SUD2+_F0,SUD1_F2+,7,1,6,14.3,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,post1,post2,SUD2+_F0,SUD2+_F2+,9,1,8,11.1,TRUE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F12,F12 (Cannabis),all,All ages,5,11558,11535,23,flow,post1,post2,SUD2+_F2+,SUD2+_F0,7,3,4,42.9,TRUE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,pre,index,SUD0_F2+,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,index,post1,SUD1_F2+,SUD2+_F1,7,0,7,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,index,post1,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,index,post1,SUD2+_F1,SUD0_F2+,7,0,7,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,index,post1,SUD2+_F1,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,index,post1,SUD2+_F1,SUD2+_F0,7,0,7,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,index,post1,SUD2+_F2+,No visit,8,0,8,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD0_F1,SUD1_F0,8,0,8,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD0_F1,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD0_F2+,SUD1_F1,6,0,6,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD1_F1,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD1_F2+,SUD2+_F0,6,0,6,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD2+_F0,SUD1_F1,7,0,7,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD2+_F0,SUD1_F2+,6,0,6,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD2+_F0,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Male,F12,F12 (Cannabis),18-25,18-25,5,7651,7611,40,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD1_F1,SUD1_F0,7,1,6,14.3,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F0,SUD0_F2+,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F0,SUD1_F2+,7,2,5,28.6,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F1,SUD0_F1,8,2,6,25,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F1,SUD1_F0,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F1,SUD1_F2+,7,2,5,28.6,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F1,SUD2+_F1,9,1,8,11.1,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,index,post1,SUD2+_F1,SUD2+_F2+,7,1,6,14.3,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,No visit,SUD1_F2+,7,2,5,28.6,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD0_F1,SUD1_F0,7,2,5,28.6,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD0_F2+,SUD1_F1,7,2,5,28.6,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,1,5,16.7,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD1_F0,SUD1_F1,7,0,7,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD1_F0,SUD1_F2+,5,1,4,20,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD1_F0,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD1_F2+,SUD1_F1,7,1,6,14.3,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F1,SUD1_F1,7,1,6,14.3,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F1,SUD2+_F1,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F1,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F2+,SUD1_F0,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2213,2131,82,flow,post1,post2,SUD2+_F2+,SUD2+_F1,8,1,7,12.5,TRUE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,pre,index,SUD0_F2+,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,pre,index,SUD0_F2+,SUD2+_F1,8,0,8,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD1_F1,SUD1_F0,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F0,SUD0_F1,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F0,SUD0_F2+,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F0,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F1,SUD0_F1,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F1,SUD1_F0,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,index,post1,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,No visit,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,No visit,SUD2+_F1,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD0_F1,SUD1_F0,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD0_F2+,SUD1_F1,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD0_F2+,SUD2+_F2+,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD1_F0,SUD0_F1,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD1_F0,SUD1_F1,7,0,7,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD1_F0,SUD2+_F1,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD1_F1,SUD0_F2+,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD1_F2+,SUD1_F1,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F0,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F1,SUD1_F0,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F1,SUD1_F1,6,0,6,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F1,SUD2+_F1,9,0,9,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F1,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F2+,SUD1_F0,5,0,5,0,FALSE
+all,All,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1818,1738,80,flow,post1,post2,SUD2+_F2+,SUD2+_F1,7,0,7,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,pre,index,SUD0_F1,SUD2+_F1,5,2,3,40,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,pre,index,SUD0_F2+,SUD2+_F0,7,0,7,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD1_F1,SUD2+_F0,6,1,5,16.7,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD1_F2+,No visit,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD1_F2+,SUD0_F1,7,1,6,14.3,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD1_F2+,SUD1_F2+,7,2,5,28.6,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD2+_F0,SUD0_F2+,8,1,7,12.5,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD2+_F0,SUD1_F1,8,0,8,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD2+_F0,SUD2+_F2+,5,1,4,20,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD2+_F1,No visit,9,2,7,22.2,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD2+_F1,SUD0_F1,5,2,3,40,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,index,post1,SUD2+_F1,SUD2+_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,No visit,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,No visit,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD0_F1,SUD0_F2+,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD0_F1,SUD1_F0,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD0_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD0_F2+,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F0,SUD1_F1,7,0,7,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F0,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F0,SUD2+_F1,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F1,SUD0_F1,8,0,8,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F1,SUD0_F2+,6,2,4,33.3,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F1,SUD1_F0,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F1,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F1,SUD2+_F2+,5,1,4,20,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD1_F2+,SUD1_F2+,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F0,SUD1_F1,7,1,6,14.3,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F0,SUD2+_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F1,SUD0_F1,5,1,4,20,TRUE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F2+,SUD0_F1,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F2+,SUD0_F2+,8,0,8,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),all,All ages,5,1642,1535,107,flow,post1,post2,SUD2+_F2+,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,pre,index,SUD0_F2+,SUD2+_F0,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD1_F2+,No visit,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD1_F2+,SUD0_F1,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD1_F2+,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD2+_F1,No visit,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,index,post1,SUD2+_F1,SUD2+_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,No visit,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,No visit,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD0_F1,SUD0_F2+,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD0_F1,SUD1_F0,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD0_F1,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD0_F2+,SUD1_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F0,SUD0_F1,7,0,7,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F0,SUD1_F1,7,0,7,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F0,SUD2+_F0,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F0,SUD2+_F1,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F1,SUD0_F1,8,0,8,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F1,SUD1_F0,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F1,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD1_F2+,SUD1_F2+,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F0,SUD2+_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F1,SUD1_F1,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F2+,No visit,9,0,9,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F2+,SUD0_F1,6,0,6,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F2+,SUD0_F2+,7,0,7,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+all,All,Male,F15,F15 (Other stimulants),18-25,18-25,5,1418,1299,119,flow,post1,post2,SUD2+_F2+,SUD2+_F2+,7,0,7,0,FALSE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,stratum,NA,index,NA,SUD1_F2+,5,1,4,20,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,stratum,NA,post1,NA,SUD2+_F0,6,1,5,16.7,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,pre,index,SUD0_F2+,SUD1_F2+,5,1,4,20,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,index,post1,SUD1_F0,SUD2+_F0,6,1,5,16.7,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,index,post1,SUD1_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,index,post1,SUD1_F2+,SUD0_F2+,5,1,4,20,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,post1,post2,SUD0_F1,SUD0_F2+,9,1,8,11.1,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,post1,post2,SUD0_F2+,SUD0_F1,7,1,6,14.3,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,post1,post2,SUD1_F0,SUD0_F2+,5,1,4,20,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,post1,post2,SUD1_F2+,No visit,6,0,6,0,FALSE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,post1,post2,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,post1,post2,SUD1_F2+,SUD0_F2+,7,1,6,14.3,TRUE
+all,All,Male,F17,F17 (Tobacco),all,All ages,5,1588,1491,97,flow,post1,post2,SUD2+_F0,No visit,6,1,5,16.7,TRUE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,stratum,NA,index,NA,SUD2+_F0,8,0,8,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,stratum,NA,post1,NA,SUD2+_F0,5,0,5,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,pre,index,No visit,SUD2+_F0,8,0,8,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,index,post1,SUD1_F0,SUD1_F2+,9,0,9,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,index,post1,SUD1_F0,SUD2+_F0,5,0,5,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,index,post1,SUD1_F1,SUD1_F2+,8,0,8,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,index,post1,SUD2+_F0,No visit,8,0,8,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,post1,post2,SUD0_F1,SUD0_F2+,8,0,8,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,post1,post2,SUD0_F2+,SUD0_F1,6,0,6,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,post1,post2,SUD1_F2+,No visit,6,0,6,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,post1,post2,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,post1,post2,SUD1_F2+,SUD0_F2+,6,0,6,0,FALSE
+all,All,Male,F17,F17 (Tobacco),18-25,18-25,5,1432,1340,92,flow,post1,post2,SUD2+_F0,No visit,5,0,5,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,pre,index,SUD0_F1,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD1_F2+,SUD2+_F0,8,0,8,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD2+_F1,SUD0_F2+,9,2,7,22.2,TRUE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD2+_F1,SUD1_F0,6,0,6,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD2+_F1,SUD2+_F2+,9,3,6,33.3,TRUE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD2+_F2+,No visit,8,0,8,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD2+_F2+,SUD1_F1,8,1,7,12.5,TRUE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD2+_F2+,SUD1_F2+,8,1,7,12.5,TRUE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,index,post1,SUD2+_F2+,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,post1,post2,SUD0_F1,SUD2+_F0,6,0,6,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,post1,post2,SUD0_F2+,SUD1_F0,5,2,3,40,TRUE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,post1,post2,SUD0_F2+,SUD2+_F1,8,1,7,12.5,TRUE
+all,All,Male,F19,F19 (Multiple drugs),all,All ages,5,11523,11508,15,flow,post1,post2,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,pre,index,SUD0_F1,SUD2+_F2+,8,0,8,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD1_F2+,SUD2+_F0,8,0,8,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD2+_F1,SUD0_F2+,7,0,7,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD2+_F1,SUD1_F0,6,0,6,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD2+_F2+,No visit,8,0,8,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD2+_F2+,SUD1_F1,7,0,7,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD2+_F2+,SUD1_F2+,7,0,7,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,index,post1,SUD2+_F2+,SUD2+_F2+,9,0,9,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,post1,post2,SUD0_F1,SUD2+_F0,6,0,6,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,post1,post2,SUD0_F2+,SUD2+_F1,7,0,7,0,FALSE
+all,All,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10346,10331,15,flow,post1,post2,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,All,all,All SUD,all,All ages,5,87843,87843,0,flow,index,post1,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,all,All SUD,18-25,18-25,5,64941,64941,0,flow,index,post1,SUD2+_F2+,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,all,All SUD,18-25,18-25,5,64941,64941,0,flow,index,post1,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,all,All SUD,18-25,18-25,5,64941,64941,0,flow,post1,post2,SUD0_F2+,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,F10,F10 (Alcohol),all,All ages,5,37023,37015,8,flow,index,post1,SUD2+_F2+,SUD1_F1,7,2,5,28.6,TRUE
+nationwide,Sweden,All,F10,F10 (Alcohol),all,All ages,5,37023,37015,8,flow,index,post1,SUD2+_F2+,SUD2+_F1,5,1,4,20,TRUE
+nationwide,Sweden,All,F10,F10 (Alcohol),all,All ages,5,37023,37015,8,flow,post1,post2,SUD0_F2+,SUD2+_F0,5,2,3,40,TRUE
+nationwide,Sweden,All,F10,F10 (Alcohol),all,All ages,5,37023,37015,8,flow,post1,post2,SUD0_F2+,SUD2+_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F10,F10 (Alcohol),all,All ages,5,37023,37015,8,flow,post1,post2,SUD1_F2+,SUD2+_F0,5,1,4,20,TRUE
+nationwide,Sweden,All,F10,F10 (Alcohol),all,All ages,5,37023,37015,8,flow,post1,post2,SUD2+_F0,SUD1_F2+,7,3,4,42.9,TRUE
+nationwide,Sweden,All,F10,F10 (Alcohol),18-25,18-25,5,24948,24926,22,flow,index,post1,SUD2+_F2+,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F10,F10 (Alcohol),18-25,18-25,5,24948,24926,22,flow,index,post1,SUD2+_F2+,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,All,F10,F10 (Alcohol),18-25,18-25,5,24948,24926,22,flow,post1,post2,SUD0_F2+,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F10,F10 (Alcohol),18-25,18-25,5,24948,24926,22,flow,post1,post2,SUD2+_F0,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,pre,index,SUD0_F2+,SUD2+_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD2+_F0,SUD0_F2+,5,1,4,20,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD2+_F1,SUD0_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD2+_F1,SUD1_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD2+_F1,SUD1_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD2+_F1,SUD1_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,index,post1,SUD2+_F1,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,No visit,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,No visit,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD0_F1,SUD1_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD0_F1,SUD1_F2+,5,3,2,60,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD1_F0,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD1_F0,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD1_F1,SUD2+_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD1_F2+,SUD1_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD1_F2+,SUD1_F1,9,1,8,11.1,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD2+_F1,SUD2+_F2+,9,1,8,11.1,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD2+_F2+,SUD0_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F11,F11 (Opioids),all,All ages,5,3641,3578,63,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,pre,index,SUD0_F1,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,pre,index,SUD0_F2+,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,index,post1,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,index,post1,SUD2+_F1,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,index,post1,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,index,post1,SUD2+_F1,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,index,post1,SUD2+_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,index,post1,SUD2+_F1,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,No visit,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,No visit,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD0_F1,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD0_F1,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD1_F0,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD1_F0,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD1_F1,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD1_F2+,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD1_F2+,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD2+_F1,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD2+_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD2+_F2+,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F11,F11 (Opioids),18-25,18-25,5,3260,3196,64,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,pre,index,SUD0_F1,SUD2+_F2+,7,2,5,28.6,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,index,post1,SUD1_F2+,SUD2+_F0,5,1,4,20,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,index,post1,SUD2+_F2+,SUD0_F2+,9,1,8,11.1,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,index,post1,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,4,5,44.4,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,post1,post2,SUD0_F2+,SUD1_F0,7,2,5,28.6,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,post1,post2,SUD0_F2+,SUD2+_F1,5,2,3,40,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,post1,post2,SUD1_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,post1,post2,SUD2+_F0,SUD0_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F12,F12 (Cannabis),all,All ages,5,15008,14993,15,flow,post1,post2,SUD2+_F1,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,pre,index,SUD0_F1,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,index,post1,SUD2+_F1,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,index,post1,SUD2+_F2+,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,index,post1,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,index,post1,SUD2+_F2+,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD0_F1,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD0_F2+,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD0_F2+,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD0_F2+,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD1_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD1_F2+,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD2+_F0,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD2+_F0,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD2+_F1,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F12,F12 (Cannabis),18-25,18-25,5,9763,9746,17,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,pre,index,No visit,SUD2+_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD1_F1,SUD2+_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD1_F2+,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD2+_F1,SUD0_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD2+_F1,SUD1_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD2+_F2+,No visit,5,1,4,20,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,No visit,SUD2+_F2+,5,1,4,20,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD1_F0,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD1_F1,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD2+_F0,SUD0_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD2+_F0,SUD2+_F1,5,1,4,20,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD2+_F1,SUD0_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),all,All ages,5,5677,5621,56,flow,post1,post2,SUD2+_F2+,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD1_F2+,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD1_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD2+_F1,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD2+_F1,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD2+_F1,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD2+_F1,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD2+_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD1_F0,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD1_F1,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD2+_F0,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD2+_F1,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD2+_F1,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,4421,4355,66,flow,post1,post2,SUD2+_F2+,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,pre,index,No visit,SUD2+_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,pre,index,SUD0_F2+,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD1_F2+,SUD2+_F2+,9,1,8,11.1,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F0,SUD1_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F1,SUD0_F1,8,2,6,25,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F1,SUD1_F0,6,3,3,50,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F1,SUD1_F1,7,2,5,28.6,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F1,SUD2+_F2+,9,1,8,11.1,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD0_F2+,SUD2+_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD1_F0,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD1_F1,SUD1_F0,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD1_F1,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD1_F1,SUD2+_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD1_F2+,SUD1_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD1_F2+,SUD2+_F0,5,1,4,20,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD1_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD2+_F0,SUD1_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD2+_F0,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD2+_F1,SUD1_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD2+_F2+,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),all,All ages,5,2936,2871,65,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,pre,index,No visit,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,pre,index,SUD0_F2+,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD2+_F1,SUD0_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD2+_F1,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD2+_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD2+_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,No visit,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD0_F1,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD0_F1,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD0_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD1_F0,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD1_F1,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD1_F1,SUD1_F0,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD1_F1,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD1_F1,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD1_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD1_F2+,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F0,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F0,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F1,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F1,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F2+,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F15,F15 (Other stimulants),18-25,18-25,5,2417,2342,75,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,stratum,NA,index,NA,SUD2+_F0,9,2,7,22.2,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,stratum,NA,post1,NA,SUD2+_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,pre,index,No visit,SUD2+_F0,9,2,7,22.2,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,index,post1,SUD1_F0,SUD2+_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,index,post1,SUD1_F1,SUD1_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,index,post1,SUD1_F2+,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,index,post1,SUD2+_F0,No visit,9,2,7,22.2,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,post1,post2,SUD0_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,post1,post2,SUD1_F0,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,post1,post2,SUD1_F0,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,post1,post2,SUD1_F0,SUD1_F2+,5,1,4,20,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,post1,post2,SUD1_F1,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,post1,post2,SUD1_F2+,SUD1_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),all,All ages,5,2652,2563,89,flow,post1,post2,SUD2+_F0,No visit,7,1,6,14.3,TRUE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,stratum,NA,index,NA,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,stratum,NA,post1,NA,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,pre,index,No visit,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,index,post1,SUD1_F0,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,index,post1,SUD1_F1,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,index,post1,SUD1_F2+,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,index,post1,SUD2+_F0,No visit,7,0,7,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD0_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD0_F2+,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD1_F0,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD1_F0,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD1_F1,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD1_F2+,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD1_F2+,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,All,F17,F17 (Tobacco),18-25,18-25,5,2444,2361,83,flow,post1,post2,SUD2+_F0,No visit,6,0,6,0,FALSE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),all,All ages,5,18707,18697,10,flow,index,post1,SUD2+_F1,SUD2+_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),all,All ages,5,18707,18697,10,flow,index,post1,SUD2+_F2+,SUD0_F1,8,2,6,25,TRUE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),all,All ages,5,18707,18697,10,flow,index,post1,SUD2+_F2+,SUD1_F1,9,1,8,11.1,TRUE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),all,All ages,5,18707,18697,10,flow,post1,post2,SUD0_F2+,SUD1_F0,9,3,6,33.3,TRUE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),all,All ages,5,18707,18697,10,flow,post1,post2,SUD2+_F0,SUD0_F2+,9,1,8,11.1,TRUE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),18-25,18-25,5,16071,16062,9,flow,index,post1,SUD2+_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),18-25,18-25,5,16071,16062,9,flow,index,post1,SUD2+_F2+,SUD0_F1,6,0,6,0,FALSE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),18-25,18-25,5,16071,16062,9,flow,index,post1,SUD2+_F2+,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),18-25,18-25,5,16071,16062,9,flow,post1,post2,SUD0_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),18-25,18-25,5,16071,16062,9,flow,post1,post2,SUD0_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,All,F19,F19 (Multiple drugs),18-25,18-25,5,16071,16062,9,flow,post1,post2,SUD2+_F0,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,all,All SUD,all,All ages,5,38413,38406,7,flow,index,post1,SUD1_F2+,SUD2+_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,all,All SUD,all,All ages,5,38413,38406,7,flow,index,post1,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,all,All SUD,all,All ages,5,38413,38406,7,flow,post1,post2,SUD0_F2+,SUD2+_F0,7,4,3,57.1,TRUE
+nationwide,Sweden,Female,all,All SUD,18-25,18-25,5,27025,27016,9,flow,index,post1,SUD1_F2+,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Female,all,All SUD,18-25,18-25,5,27025,27016,9,flow,index,post1,SUD2+_F2+,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,all,All SUD,18-25,18-25,5,27025,27016,9,flow,index,post1,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,index,post1,SUD1_F2+,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,index,post1,SUD2+_F1,SUD1_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,index,post1,SUD2+_F2+,SUD0_F1,6,3,3,50,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,index,post1,SUD2+_F2+,SUD1_F1,5,2,3,40,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,3,6,33.3,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD0_F1,SUD2+_F0,9,4,5,44.4,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD0_F2+,SUD2+_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD1_F1,SUD2+_F0,8,4,4,50,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD2+_F0,SUD0_F2+,6,2,4,33.3,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD2+_F0,SUD1_F2+,6,3,3,50,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,3,4,42.9,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD2+_F0,SUD2+_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),all,All ages,5,19466,19449,17,flow,post1,post2,SUD2+_F1,SUD2+_F0,8,2,6,25,TRUE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,pre,index,No visit,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,index,post1,SUD1_F2+,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,index,post1,SUD2+_F1,SUD1_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,index,post1,SUD2+_F1,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,index,post1,SUD2+_F2+,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD0_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD0_F1,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD0_F1,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD0_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD1_F0,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD1_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD2+_F0,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD2+_F0,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD2+_F0,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F10,F10 (Alcohol),18-25,18-25,5,12645,12609,36,flow,post1,post2,SUD2+_F1,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,pre,index,No visit,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,pre,index,SUD0_F1,SUD2+_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,pre,index,SUD0_F2+,SUD2+_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,index,post1,SUD1_F1,SUD2+_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,index,post1,SUD1_F2+,No visit,7,0,7,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,index,post1,SUD2+_F0,SUD2+_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,index,post1,SUD2+_F0,SUD2+_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,No visit,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,No visit,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD0_F1,SUD1_F0,5,1,4,20,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD0_F1,SUD1_F1,5,3,2,60,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD0_F2+,SUD1_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD1_F0,SUD2+_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD1_F1,SUD0_F1,5,2,3,40,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD1_F1,SUD0_F2+,7,2,5,28.6,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD1_F1,SUD1_F2+,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD1_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD1_F1,SUD2+_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD2+_F1,SUD0_F1,5,1,4,20,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD2+_F1,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD2+_F1,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD2+_F2+,No visit,9,0,9,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD2+_F2+,SUD0_F1,5,1,4,20,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),all,All ages,5,1383,1257,126,flow,post1,post2,SUD2+_F2+,SUD1_F0,5,1,4,20,TRUE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,pre,index,No visit,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,pre,index,SUD0_F1,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,pre,index,SUD0_F2+,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,index,post1,SUD1_F1,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,index,post1,SUD1_F2+,No visit,7,0,7,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,index,post1,SUD2+_F0,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,index,post1,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,No visit,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,No visit,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,No visit,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD0_F2+,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD1_F0,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD1_F0,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD1_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD1_F1,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD1_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD2+_F0,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD2+_F2+,No visit,9,0,9,0,FALSE
+nationwide,Sweden,Female,F11,F11 (Opioids),18-25,18-25,5,1164,1018,146,flow,post1,post2,SUD2+_F2+,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,index,post1,SUD1_F2+,SUD2+_F1,6,2,4,33.3,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,index,post1,SUD2+_F1,SUD0_F2+,7,4,3,57.1,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,index,post1,SUD2+_F1,SUD2+_F1,9,4,5,44.4,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,index,post1,SUD2+_F1,SUD2+_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,No visit,SUD2+_F1,5,1,4,20,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD0_F1,SUD1_F0,5,3,2,60,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD1_F2+,SUD2+_F1,9,5,4,55.6,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F0,SUD1_F1,9,5,4,55.6,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F0,SUD1_F2+,5,3,2,60,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F0,SUD2+_F1,9,5,4,55.6,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F1,SUD1_F0,8,5,3,62.5,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F1,SUD1_F1,9,7,2,77.8,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F1,SUD1_F2+,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F1,SUD2+_F0,8,5,3,62.5,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,2,4,33.3,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),all,All ages,5,3546,3475,71,flow,post1,post2,SUD2+_F2+,SUD2+_F1,8,3,5,37.5,TRUE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,pre,index,SUD0_F2+,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD1_F1,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F0,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F0,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F0,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F1,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F1,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,index,post1,SUD2+_F1,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,No visit,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,No visit,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD1_F0,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD1_F0,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD1_F0,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD1_F1,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD1_F2+,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD2+_F0,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD2+_F1,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD2+_F1,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD2+_F2+,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD2+_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,Female,F12,F12 (Cannabis),18-25,18-25,5,2147,2051,96,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,stratum,NA,index,NA,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,stratum,NA,post2,NA,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,pre,index,SUD0_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,pre,index,SUD0_F2+,SUD2+_F1,9,1,8,11.1,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,pre,index,SUD0_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD1_F1,SUD1_F0,5,1,4,20,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD1_F1,SUD2+_F1,9,2,7,22.2,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD1_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD2+_F0,SUD2+_F1,7,1,5,14.3,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD2+_F1,No visit,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD2+_F1,SUD0_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD2+_F1,SUD0_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD2+_F1,SUD1_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,index,post1,SUD2+_F2+,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,No visit,SUD1_F2+,8,2,6,25,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,No visit,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD1_F0,SUD1_F1,6,2,4,33.3,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD1_F0,SUD2+_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD1_F1,SUD1_F0,5,1,4,20,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD1_F1,SUD1_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD1_F1,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD1_F2+,SUD1_F1,8,2,6,25,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD2+_F0,SUD1_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD2+_F1,SUD0_F1,8,2,6,25,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD2+_F1,SUD2+_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD2+_F1,SUD2+_F2+,5,0,4,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),all,All ages,5,3461,3367,94,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,stratum,NA,index,NA,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,stratum,NA,post2,NA,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,stratum,NA,post2,NA,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,pre,index,No visit,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,pre,index,SUD0_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,pre,index,SUD0_F2+,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,pre,index,SUD0_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,index,post1,SUD1_F1,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,index,post1,SUD2+_F0,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,index,post1,SUD2+_F0,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,index,post1,SUD2+_F1,No visit,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,index,post1,SUD2+_F1,SUD0_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,index,post1,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,index,post1,SUD2+_F2+,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,No visit,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,No visit,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,No visit,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD0_F1,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD0_F2+,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD1_F0,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD1_F1,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD1_F1,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD1_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD2+_F0,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,2602,2487,115,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,pre,index,SUD0_F1,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,pre,index,SUD0_F1,SUD2+_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,pre,index,SUD0_F2+,SUD2+_F0,9,1,8,11.1,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD1_F1,SUD2+_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD1_F2+,No visit,9,0,9,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD1_F2+,SUD0_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD2+_F0,SUD0_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD2+_F0,SUD1_F1,7,2,5,28.6,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD2+_F0,SUD2+_F2+,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD2+_F1,No visit,6,2,4,33.3,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD2+_F1,SUD1_F1,5,2,3,40,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,index,post1,SUD2+_F1,SUD2+_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,No visit,SUD1_F2+,6,3,3,50,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD0_F1,SUD1_F1,7,2,5,28.6,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD0_F1,SUD1_F2+,8,4,4,50,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD0_F2+,SUD1_F2+,8,2,6,25,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD1_F1,SUD0_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD1_F1,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD1_F2+,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD1_F2+,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F0,SUD2+_F0,5,1,4,20,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F1,SUD0_F1,5,1,4,20,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F1,SUD1_F1,7,2,5,28.6,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F1,SUD2+_F1,8,3,5,37.5,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F1,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),all,All ages,5,1287,1164,123,flow,post1,post2,SUD2+_F2+,No visit,7,1,6,14.3,TRUE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,stratum,NA,post2,NA,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,stratum,NA,post2,NA,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,pre,index,SUD0_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,pre,index,SUD0_F2+,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,index,post1,SUD1_F1,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,index,post1,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,index,post1,SUD1_F2+,No visit,9,0,9,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,index,post1,SUD2+_F0,SUD0_F1,6,0,6,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,index,post1,SUD2+_F0,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,index,post1,SUD2+_F0,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,No visit,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,No visit,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD0_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD0_F2+,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD0_F2+,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD1_F0,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD1_F1,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD1_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD1_F1,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD1_F2+,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD1_F2+,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD1_F2+,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD2+_F0,SUD1_F0,8,0,8,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Female,F15,F15 (Other stimulants),18-25,18-25,5,996,833,163,flow,post1,post2,SUD2+_F2+,No visit,6,0,6,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,stratum,NA,post2,NA,SUD1_F1,9,1,8,11.1,TRUE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,stratum,NA,post2,NA,SUD1_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,pre,index,No visit,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,pre,index,SUD0_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,index,post1,SUD1_F1,SUD1_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,index,post1,SUD1_F2+,No visit,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,index,post1,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,post1,post2,SUD0_F1,SUD1_F1,9,1,8,11.1,TRUE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,post1,post2,SUD0_F2+,SUD1_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,post1,post2,SUD1_F0,SUD1_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,post1,post2,SUD1_F1,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,post1,post2,SUD1_F2+,No visit,6,0,6,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,post1,post2,SUD1_F2+,SUD0_F1,5,1,4,20,TRUE
+nationwide,Sweden,Female,F17,F17 (Tobacco),all,All ages,5,1364,1301,63,flow,post1,post2,SUD1_F2+,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,stratum,NA,post2,NA,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,stratum,NA,post2,NA,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,pre,index,No visit,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,pre,index,SUD0_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,index,post1,SUD1_F2+,No visit,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,index,post1,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,post1,post2,SUD0_F1,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,post1,post2,SUD0_F1,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,post1,post2,SUD0_F2+,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,post1,post2,SUD1_F0,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,post1,post2,SUD1_F1,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,post1,post2,SUD1_F2+,No visit,5,0,5,0,FALSE
+nationwide,Sweden,Female,F17,F17 (Tobacco),18-25,18-25,5,1254,1188,66,flow,post1,post2,SUD1_F2+,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,pre,index,SUD0_F1,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,index,post1,SUD2+_F0,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,index,post1,SUD2+_F1,SUD2+_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,index,post1,SUD2+_F1,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,index,post1,SUD2+_F2+,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,index,post1,SUD2+_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD0_F1,SUD2+_F0,5,1,4,20,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD0_F1,SUD2+_F1,7,2,5,28.6,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD0_F2+,SUD2+_F1,6,2,4,33.3,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD1_F0,SUD0_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD1_F2+,SUD2+_F0,7,2,5,28.6,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD2+_F0,SUD0_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD2+_F0,SUD1_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD2+_F0,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD2+_F0,SUD2+_F2+,9,3,6,33.3,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD2+_F1,SUD0_F2+,8,1,7,12.5,TRUE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),all,All ages,5,7242,7213,29,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,pre,index,SUD0_F1,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD1_F2+,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F0,SUD0_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F0,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F0,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F0,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F1,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F1,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F2+,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,index,post1,SUD2+_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD0_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD0_F1,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD1_F0,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD1_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD2+_F0,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD2+_F0,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD2+_F0,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD2+_F1,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Female,F19,F19 (Multiple drugs),18-25,18-25,5,5797,5761,36,flow,post1,post2,SUD2+_F2+,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,all,All SUD,all,All ages,5,49430,49428,2,flow,index,post1,SUD2+_F2+,SUD1_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,all,All SUD,all,All ages,5,49430,49428,2,flow,post1,post2,SUD0_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,all,All SUD,18-25,18-25,5,37916,37914,2,flow,index,post1,SUD2+_F2+,SUD0_F1,9,0,9,0,FALSE
+nationwide,Sweden,Male,all,All SUD,18-25,18-25,5,37916,37914,2,flow,index,post1,SUD2+_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,all,All SUD,18-25,18-25,5,37916,37914,2,flow,post1,post2,SUD0_F2+,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,index,post1,SUD2+_F1,SUD1_F2+,7,2,5,28.6,TRUE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,index,post1,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,index,post1,SUD2+_F2+,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,index,post1,SUD2+_F2+,SUD0_F2+,8,2,6,25,TRUE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,index,post1,SUD2+_F2+,SUD1_F2+,9,1,8,11.1,TRUE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,post1,post2,SUD0_F1,SUD2+_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,post1,post2,SUD2+_F0,SUD2+_F2+,8,2,6,25,TRUE
+nationwide,Sweden,Male,F10,F10 (Alcohol),all,All ages,5,17557,17535,22,flow,post1,post2,SUD2+_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,pre,index,SUD0_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,index,post1,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,index,post1,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,index,post1,SUD2+_F2+,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,index,post1,SUD2+_F2+,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,index,post1,SUD2+_F2+,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,post1,post2,SUD0_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,post1,post2,SUD1_F0,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,post1,post2,SUD2+_F0,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F10,F10 (Alcohol),18-25,18-25,5,12303,12286,17,flow,post1,post2,SUD2+_F2+,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,pre,index,SUD0_F1,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD1_F2+,No visit,9,1,8,11.1,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD2+_F0,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD2+_F0,SUD2+_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD2+_F1,SUD1_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD2+_F1,SUD1_F1,5,1,4,20,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,index,post1,SUD2+_F1,SUD2+_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,No visit,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD0_F1,SUD1_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F0,SUD0_F1,9,1,8,11.1,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F1,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F1,SUD2+_F0,8,1,7,12.5,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F2+,SUD0_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F2+,SUD1_F1,5,1,4,20,TRUE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD1_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD2+_F0,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD2+_F0,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD2+_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),all,All ages,5,2258,2165,93,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,pre,index,SUD0_F1,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD1_F1,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD1_F2+,No visit,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD1_F2+,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD1_F2+,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD2+_F0,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD2+_F1,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,index,post1,SUD2+_F1,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,No visit,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,No visit,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,No visit,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,No visit,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD0_F1,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD0_F2+,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD1_F0,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD1_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD1_F1,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD1_F1,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD1_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F0,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F0,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F1,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F2+,SUD0_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F2+,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F2+,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F11,F11 (Opioids),18-25,18-25,5,2096,1994,102,flow,post1,post2,SUD2+_F2+,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,index,post1,SUD2+_F1,SUD0_F2+,8,2,6,25,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,index,post1,SUD2+_F1,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,index,post1,SUD2+_F1,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,index,post1,SUD2+_F2+,SUD0_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,index,post1,SUD2+_F2+,SUD1_F2+,5,2,3,40,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,post1,post2,SUD0_F2+,SUD1_F0,5,2,3,40,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,2,3,33.3,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,post1,post2,SUD1_F2+,SUD2+_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,post1,post2,SUD2+_F0,SUD1_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),all,All ages,5,11462,11442,20,flow,post1,post2,SUD2+_F2+,SUD2+_F0,7,4,3,57.1,TRUE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,pre,index,SUD0_F2+,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,index,post1,SUD1_F2+,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,index,post1,SUD2+_F0,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,index,post1,SUD2+_F1,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,index,post1,SUD2+_F1,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,index,post1,SUD2+_F1,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,index,post1,SUD2+_F2+,No visit,8,0,8,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD0_F1,SUD1_F0,8,0,8,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD0_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD0_F1,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD0_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD1_F1,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD1_F2+,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD2+_F0,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F12,F12 (Cannabis),18-25,18-25,5,7616,7580,36,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD1_F1,SUD1_F0,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F0,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F0,SUD1_F2+,7,2,5,28.6,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F1,SUD0_F1,8,2,6,25,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F1,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F1,SUD1_F2+,8,3,5,37.5,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F1,SUD2+_F1,8,1,7,12.5,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,index,post1,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,No visit,SUD1_F2+,9,2,7,22.2,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD0_F1,SUD1_F0,6,2,4,33.3,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD0_F2+,SUD1_F1,7,2,5,28.6,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD0_F2+,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD0_F2+,SUD2+_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD1_F0,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD1_F0,SUD2+_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD1_F2+,SUD1_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD2+_F1,SUD1_F0,9,1,8,11.1,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD2+_F1,SUD1_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD2+_F1,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD2+_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD2+_F2+,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),all,All ages,5,2216,2140,76,flow,post1,post2,SUD2+_F2+,SUD2+_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,pre,index,SUD0_F2+,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,pre,index,SUD0_F2+,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD1_F1,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD1_F2+,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F0,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F0,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F0,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F1,SUD0_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F1,SUD1_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F1,SUD2+_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,index,post1,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,No visit,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD0_F2+,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD0_F2+,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD0_F2+,SUD2+_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD1_F0,SUD1_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD1_F0,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD1_F1,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD1_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F0,SUD2+_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F1,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F1,SUD1_F0,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F1,SUD1_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F1,SUD1_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F2+,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F13,F13 (Sedatives/Hypnotics),18-25,18-25,5,1819,1744,75,flow,post1,post2,SUD2+_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,pre,index,SUD0_F1,SUD2+_F1,6,2,3,33.3,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,pre,index,SUD0_F2+,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD1_F1,SUD2+_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD1_F2+,No visit,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD1_F2+,SUD0_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD1_F2+,SUD1_F2+,7,2,5,28.6,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD2+_F0,SUD0_F2+,8,1,7,12.5,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD2+_F0,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD2+_F0,SUD2+_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD2+_F1,No visit,9,2,7,22.2,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD2+_F1,SUD0_F1,5,2,3,40,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,index,post1,SUD2+_F1,SUD2+_F1,6,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,No visit,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,No visit,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,No visit,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD0_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD0_F1,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD0_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD0_F2+,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F0,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F0,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F1,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F1,SUD0_F2+,6,2,4,33.3,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F1,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F1,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F1,SUD2+_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD1_F2+,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F0,SUD1_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F0,SUD2+_F1,7,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F1,SUD0_F1,5,1,4,20,TRUE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F2+,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F2+,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),all,All ages,5,1649,1545,104,flow,post1,post2,SUD2+_F2+,SUD2+_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,pre,index,SUD0_F2+,SUD2+_F0,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD1_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD1_F2+,No visit,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD1_F2+,SUD0_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD1_F2+,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD2+_F1,No visit,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,index,post1,SUD2+_F1,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,No visit,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,No visit,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,No visit,SUD2+_F1,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD0_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD0_F1,SUD1_F0,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD0_F1,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD0_F2+,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F0,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F0,SUD1_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F0,SUD2+_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F1,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F1,SUD1_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F1,SUD1_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F2+,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD1_F2+,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F0,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F0,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F1,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F1,SUD1_F1,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F2+,No visit,9,0,9,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F2+,SUD0_F1,7,0,7,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F2+,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F2+,SUD2+_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F15,F15 (Other stimulants),18-25,18-25,5,1421,1304,117,flow,post1,post2,SUD2+_F2+,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,stratum,NA,index,NA,SUD1_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,stratum,NA,index,NA,SUD2+_F0,9,2,7,22.2,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,stratum,NA,post1,NA,SUD2+_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,pre,index,No visit,SUD2+_F0,9,2,7,22.2,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,pre,index,SUD0_F2+,SUD1_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,index,post1,SUD1_F0,SUD1_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,index,post1,SUD1_F0,SUD2+_F0,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,index,post1,SUD1_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,index,post1,SUD1_F2+,SUD0_F2+,5,1,4,20,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,index,post1,SUD2+_F0,No visit,9,2,7,22.2,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,post1,post2,SUD0_F1,SUD0_F2+,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,post1,post2,SUD0_F2+,SUD0_F1,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,post1,post2,SUD1_F2+,No visit,6,0,6,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,post1,post2,SUD1_F2+,SUD0_F2+,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),all,All ages,5,1288,1194,94,flow,post1,post2,SUD2+_F0,No visit,6,1,5,16.7,TRUE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,stratum,NA,index,NA,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,stratum,NA,post1,NA,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,pre,index,No visit,SUD2+_F0,7,0,7,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,index,post1,SUD1_F0,SUD1_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,index,post1,SUD1_F0,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,index,post1,SUD1_F1,SUD1_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,index,post1,SUD2+_F0,No visit,7,0,7,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,post1,post2,SUD0_F1,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,post1,post2,SUD0_F2+,SUD0_F1,5,0,5,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,post1,post2,SUD1_F1,SUD0_F1,8,0,8,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,post1,post2,SUD1_F2+,No visit,6,0,6,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,post1,post2,SUD1_F2+,SUD0_F2+,5,0,5,0,FALSE
+nationwide,Sweden,Male,F17,F17 (Tobacco),18-25,18-25,5,1190,1101,89,flow,post1,post2,SUD2+_F0,No visit,5,0,5,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,pre,index,SUD0_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,index,post1,SUD1_F2+,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,index,post1,SUD2+_F1,SUD0_F2+,8,2,6,25,TRUE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,index,post1,SUD2+_F1,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,index,post1,SUD2+_F2+,No visit,8,0,8,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,index,post1,SUD2+_F2+,SUD1_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,index,post1,SUD2+_F2+,SUD1_F2+,8,1,7,12.5,TRUE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,index,post1,SUD2+_F2+,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,post1,post2,SUD0_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,post1,post2,SUD0_F2+,SUD1_F0,5,2,3,40,TRUE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,post1,post2,SUD0_F2+,SUD2+_F1,7,1,6,14.3,TRUE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),all,All ages,5,11465,11449,16,flow,post1,post2,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,pre,index,SUD0_F1,SUD2+_F2+,8,0,8,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD1_F2+,SUD2+_F0,8,0,8,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD2+_F1,SUD0_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD2+_F1,SUD1_F0,7,0,7,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD2+_F1,SUD2+_F2+,6,0,6,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD2+_F2+,No visit,8,0,8,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD2+_F2+,SUD1_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD2+_F2+,SUD1_F2+,7,0,7,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,index,post1,SUD2+_F2+,SUD2+_F2+,9,0,9,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,post1,post2,SUD0_F1,SUD2+_F0,5,0,5,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,post1,post2,SUD0_F2+,SUD2+_F1,6,0,6,0,FALSE
+nationwide,Sweden,Male,F19,F19 (Multiple drugs),18-25,18-25,5,10274,10258,16,flow,post1,post2,SUD2+_F0,SUD0_F2+,7,0,7,0,FALSE

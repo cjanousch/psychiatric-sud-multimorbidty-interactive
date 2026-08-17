@@ -1,0 +1,115 @@
+dataset_label,sex,sub_label,age_label,issue_type,n_flags,min_cell_n,max_cell_n,any_minors,total_minors_across_flags,max_pct_minors
+Sweden,Female,F12 (Cannabis),All ages,flow,16,5,9,TRUE,56,77.8
+All,Female,F12 (Cannabis),All ages,flow,17,5,9,TRUE,52,66.7
+All,All,F11 (Opioids),All ages,flow,22,5,9,TRUE,12,60
+Sweden,All,F11 (Opioids),All ages,flow,23,5,9,TRUE,16,60
+Sweden,Female,F11 (Opioids),All ages,flow,26,5,9,TRUE,23,60
+All,Female,All SUD,All ages,flow,3,5,8,TRUE,5,57.1
+All,Female,F10 (Alcohol),All ages,flow,12,5,9,TRUE,25,57.1
+Sweden,Female,All SUD,All ages,flow,3,5,8,TRUE,5,57.1
+Sweden,Male,F12 (Cannabis),All ages,flow,11,5,9,TRUE,15,57.1
+All,All,F15 (Other stimulants),All ages,flow,29,5,9,TRUE,21,50
+All,Female,F11 (Opioids),All ages,flow,27,5,9,TRUE,29,50
+All,Female,F15 (Other stimulants),All ages,flow,30,5,9,TRUE,38,50
+Sweden,All,F15 (Other stimulants),All ages,flow,26,5,9,TRUE,18,50
+Sweden,Female,F10 (Alcohol),All ages,flow,13,5,9,TRUE,28,50
+Sweden,Female,F15 (Other stimulants),All ages,flow,30,5,9,TRUE,34,50
+All,All,F12 (Cannabis),All ages,flow,11,5,9,TRUE,19,44.4
+Sweden,All,F12 (Cannabis),All ages,flow,10,5,9,TRUE,14,44.4
+All,All,F10 (Alcohol),All ages,flow,6,5,8,TRUE,11,42.9
+All,Male,F12 (Cannabis),All ages,flow,12,5,9,TRUE,15,42.9
+Sweden,All,F10 (Alcohol),All ages,flow,6,5,8,TRUE,10,42.9
+All,Female,F13 (Sedatives/Hypnotics),All ages,flow,23,5,9,TRUE,23,40
+All,Male,F10 (Alcohol),All ages,flow,8,5,9,TRUE,12,40
+All,Male,F15 (Other stimulants),All ages,flow,37,5,9,TRUE,17,40
+All,Male,F19 (Multiple drugs),All ages,flow,13,5,9,TRUE,10,40
+Sweden,Male,F15 (Other stimulants),All ages,flow,37,5,9,TRUE,17,40
+Sweden,Male,F19 (Multiple drugs),All ages,flow,12,5,9,TRUE,7,40
+Sweden,Male,F13 (Sedatives/Hypnotics),All ages,flow,26,5,9,TRUE,21,37.5
+All,Female,F19 (Multiple drugs),All ages,flow,16,5,9,TRUE,15,33.3
+Sweden,All,F19 (Multiple drugs),All ages,flow,5,6,9,TRUE,8,33.3
+Sweden,Female,F13 (Sedatives/Hypnotics),All ages,flow,26,5,9,TRUE,22,33.3
+Sweden,Female,F19 (Multiple drugs),All ages,flow,17,5,9,TRUE,16,33.3
+All,Male,F13 (Sedatives/Hypnotics),All ages,flow,27,5,9,TRUE,20,28.6
+Sweden,Male,F10 (Alcohol),All ages,flow,8,5,9,TRUE,9,28.6
+All,All,F19 (Multiple drugs),All ages,flow,3,6,9,TRUE,4,25
+All,Male,F11 (Opioids),All ages,flow,26,5,9,TRUE,11,25
+All,Female,F17 (Tobacco),All ages,flow,12,5,9,TRUE,5,22.2
+All,Female,F17 (Tobacco),All ages,stratum,1,9,9,TRUE,2,22.2
+Sweden,All,F17 (Tobacco),All ages,flow,12,5,9,TRUE,9,22.2
+Sweden,All,F17 (Tobacco),All ages,stratum,2,7,9,TRUE,3,22.2
+Sweden,Female,F17 (Tobacco),All ages,flow,12,5,9,TRUE,6,22.2
+Sweden,Female,F17 (Tobacco),All ages,stratum,2,9,9,TRUE,3,22.2
+Sweden,Male,F17 (Tobacco),All ages,flow,12,5,9,TRUE,12,22.2
+Sweden,Male,F17 (Tobacco),All ages,stratum,3,5,9,TRUE,4,22.2
+All,All,F13 (Sedatives/Hypnotics),All ages,flow,18,5,9,TRUE,9,20
+All,All,F17 (Tobacco),All ages,flow,8,5,9,TRUE,7,20
+All,Male,F17 (Tobacco),All ages,flow,11,5,9,TRUE,8,20
+All,Male,F17 (Tobacco),All ages,stratum,2,5,6,TRUE,2,20
+Sweden,All,F13 (Sedatives/Hypnotics),All ages,flow,18,5,9,TRUE,9,20
+Sweden,Male,F11 (Opioids),All ages,flow,26,5,9,TRUE,10,20
+All,Male,All SUD,All ages,flow,2,6,7,TRUE,2,16.7
+All,All,F17 (Tobacco),All ages,stratum,1,7,7,TRUE,1,14.3
+Sweden,Male,All SUD,All ages,flow,2,7,7,TRUE,2,14.3
+All,All,All SUD,18-25,flow,3,5,9,FALSE,0,0
+All,All,All SUD,All ages,flow,1,5,5,FALSE,0,0
+All,All,F10 (Alcohol),18-25,flow,5,5,9,FALSE,0,0
+All,All,F11 (Opioids),18-25,flow,24,5,9,FALSE,0,0
+All,All,F12 (Cannabis),18-25,flow,12,5,8,FALSE,0,0
+All,All,F13 (Sedatives/Hypnotics),18-25,flow,20,5,9,FALSE,0,0
+All,All,F15 (Other stimulants),18-25,flow,33,5,9,FALSE,0,0
+All,All,F17 (Tobacco),18-25,flow,10,5,9,FALSE,0,0
+All,All,F17 (Tobacco),18-25,stratum,2,6,8,FALSE,0,0
+All,All,F19 (Multiple drugs),18-25,flow,5,5,9,FALSE,0,0
+All,Female,All SUD,18-25,flow,3,5,8,FALSE,0,0
+All,Female,F10 (Alcohol),18-25,flow,14,5,9,FALSE,0,0
+All,Female,F11 (Opioids),18-25,flow,27,5,9,FALSE,0,0
+All,Female,F12 (Cannabis),18-25,flow,23,5,9,FALSE,0,0
+All,Female,F13 (Sedatives/Hypnotics),18-25,flow,22,5,8,FALSE,0,0
+All,Female,F13 (Sedatives/Hypnotics),18-25,stratum,3,6,7,FALSE,0,0
+All,Female,F13 (Sedatives/Hypnotics),All ages,stratum,1,7,7,FALSE,0,0
+All,Female,F15 (Other stimulants),18-25,flow,26,5,9,FALSE,0,0
+All,Female,F15 (Other stimulants),18-25,stratum,2,8,9,FALSE,0,0
+All,Female,F17 (Tobacco),18-25,flow,12,5,9,FALSE,0,0
+All,Female,F17 (Tobacco),18-25,stratum,2,7,9,FALSE,0,0
+All,Female,F19 (Multiple drugs),18-25,flow,18,5,9,FALSE,0,0
+All,Male,All SUD,18-25,flow,3,5,9,FALSE,0,0
+All,Male,F10 (Alcohol),18-25,flow,7,5,8,FALSE,0,0
+All,Male,F11 (Opioids),18-25,flow,29,5,9,FALSE,0,0
+All,Male,F12 (Cannabis),18-25,flow,16,5,9,FALSE,0,0
+All,Male,F13 (Sedatives/Hypnotics),18-25,flow,34,5,9,FALSE,0,0
+All,Male,F15 (Other stimulants),18-25,flow,34,5,9,FALSE,0,0
+All,Male,F17 (Tobacco),18-25,flow,11,5,9,FALSE,0,0
+All,Male,F17 (Tobacco),18-25,stratum,2,5,8,FALSE,0,0
+All,Male,F19 (Multiple drugs),18-25,flow,12,6,9,FALSE,0,0
+Sweden,All,All SUD,18-25,flow,3,5,9,FALSE,0,0
+Sweden,All,All SUD,All ages,flow,1,5,5,FALSE,0,0
+Sweden,All,F10 (Alcohol),18-25,flow,4,5,8,FALSE,0,0
+Sweden,All,F11 (Opioids),18-25,flow,25,5,9,FALSE,0,0
+Sweden,All,F12 (Cannabis),18-25,flow,15,5,9,FALSE,0,0
+Sweden,All,F13 (Sedatives/Hypnotics),18-25,flow,20,5,9,FALSE,0,0
+Sweden,All,F15 (Other stimulants),18-25,flow,30,5,9,FALSE,0,0
+Sweden,All,F17 (Tobacco),18-25,flow,13,6,9,FALSE,0,0
+Sweden,All,F17 (Tobacco),18-25,stratum,2,6,7,FALSE,0,0
+Sweden,All,F19 (Multiple drugs),18-25,flow,6,5,9,FALSE,0,0
+Sweden,Female,All SUD,18-25,flow,3,5,7,FALSE,0,0
+Sweden,Female,F10 (Alcohol),18-25,flow,15,5,9,FALSE,0,0
+Sweden,Female,F11 (Opioids),18-25,flow,22,5,9,FALSE,0,0
+Sweden,Female,F12 (Cannabis),18-25,flow,25,5,9,FALSE,0,0
+Sweden,Female,F13 (Sedatives/Hypnotics),18-25,flow,23,5,8,FALSE,0,0
+Sweden,Female,F13 (Sedatives/Hypnotics),18-25,stratum,3,5,7,FALSE,0,0
+Sweden,Female,F13 (Sedatives/Hypnotics),All ages,stratum,2,5,7,FALSE,0,0
+Sweden,Female,F15 (Other stimulants),18-25,flow,23,5,9,FALSE,0,0
+Sweden,Female,F15 (Other stimulants),18-25,stratum,2,7,9,FALSE,0,0
+Sweden,Female,F17 (Tobacco),18-25,flow,11,5,9,FALSE,0,0
+Sweden,Female,F17 (Tobacco),18-25,stratum,2,7,8,FALSE,0,0
+Sweden,Female,F19 (Multiple drugs),18-25,flow,21,5,9,FALSE,0,0
+Sweden,Male,All SUD,18-25,flow,3,6,9,FALSE,0,0
+Sweden,Male,F10 (Alcohol),18-25,flow,10,5,9,FALSE,0,0
+Sweden,Male,F11 (Opioids),18-25,flow,31,5,9,FALSE,0,0
+Sweden,Male,F12 (Cannabis),18-25,flow,15,5,9,FALSE,0,0
+Sweden,Male,F13 (Sedatives/Hypnotics),18-25,flow,29,5,9,FALSE,0,0
+Sweden,Male,F15 (Other stimulants),18-25,flow,34,5,9,FALSE,0,0
+Sweden,Male,F17 (Tobacco),18-25,flow,11,5,8,FALSE,0,0
+Sweden,Male,F17 (Tobacco),18-25,stratum,2,5,7,FALSE,0,0
+Sweden,Male,F19 (Multiple drugs),18-25,flow,12,5,9,FALSE,0,0
